@@ -1,2 +1,2 @@
-# tumor_classification
-Predicts whether a tumouir is malignant or benign
+# Tumour Classification
+We'll be classifying tumours as malignant or benign using a dataset included with sklearn. Note: Work in progress.
